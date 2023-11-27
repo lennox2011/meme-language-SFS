@@ -1,8 +1,3 @@
-# meme-language-SFS
-meme language for spaceflight simulator
-
-(v.1.0.0)
-
 [None]
     None=None
     Font=normal
